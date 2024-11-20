@@ -10,13 +10,12 @@ Programming Language: Python
 
 Libraries:
 
-  pandas: For data manipulation and analysis
-  numpy: For numerical computations
-  xgboost: For building machine learning models
-  Streamlit: For developing an interactive web application
-  scikit-learn: For preprocessing, model evaluation, and hyperparameter tuning
-  LangChain: For Retrieval-Augmented Generation (RAG) implementation
-  Other libraries supporting visualization and data processing
+  - pandas: For data manipulation and analysis
+  - numpy: For numerical computations
+  - Streamlit: For developing an interactive web application
+  - scikit-learn: For preprocessing, model evaluation, and hyperparameter tuning
+  - LangChain: For Retrieval-Augmented Generation (RAG) implementation
+  - Other libraries supporting visualization and data processing
 
 **Key Learnings**
 
