@@ -22,30 +22,30 @@ Libraries:
 
 Technical Insights:
 
-  -Gained hands-on experience with LLMs and their practical applications.
-  -Explored the power of the Transformer architecture, particularly in handling self-attention mechanisms for       
-   complex text analysis.
-  -Mastered techniques like fine-tuning and RAG to customize LLMs for domain-specific tasks.
-  -Learned to use tools like Streamlit to transform scripts into user-friendly web apps.
+  - Gained hands-on experience with LLMs and their practical applications.
+  - Explored the power of the Transformer architecture, particularly in handling self-attention mechanisms for       
+    complex text analysis.
+  - Mastered techniques like fine-tuning and RAG to customize LLMs for domain-specific tasks.
+  - Learned to use tools like Streamlit to transform scripts into user-friendly web apps.
 
 Soft Skills:
 
-  -Enhanced the ability to communicate complex technical insights to non-technical audiences.
-  -Improved problem-solving by adapting AI models to solve specific real-world challenges.
-  -Fostered creative thinking by imagining innovative use cases for AI-powered chatbots.
+  - Enhanced the ability to communicate complex technical insights to non-technical audiences.
+  - Improved problem-solving by adapting AI models to solve specific real-world challenges.
+  - Fostered creative thinking by imagining innovative use cases for AI-powered chatbots.
 
 **Challenges Overcame**
 
 Scalability and Performance:
-  -Addressed computational limitations by utilizing GPU acceleration for faster training of LLMs.
-  -Implemented caching mechanisms in Streamlit to optimize performance for large datasets.
+  - Addressed computational limitations by utilizing GPU acceleration for faster training of LLMs.
+  - Implemented caching mechanisms in Streamlit to optimize performance for large datasets.
 
 Data Diversity and Control:
-  -Balanced sample quality and diversity to improve chatbot responses.
-  -Integrated external knowledge bases using RAG to ensure accurate and up-to-date information retrieval.
+  - Balanced sample quality and diversity to improve chatbot responses.
+  - Integrated external knowledge bases using RAG to ensure accurate and up-to-date information retrieval.
 
 Ethical Considerations:
-  -Ensured ethical use of data during chatbot training and deployment, addressing privacy concerns and biases.
+  - Ensured ethical use of data during chatbot training and deployment, addressing privacy concerns and biases.
 
 Additional Reflections
 
