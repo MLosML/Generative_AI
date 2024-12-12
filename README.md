@@ -17,6 +17,12 @@ Libraries:
   - LangChain: For Retrieval-Augmented Generation (RAG) implementation
   - Other libraries supporting visualization and data processing
 
+
+![image](https://github.com/user-attachments/assets/c0313ea2-2005-4d46-b62b-4a98d9018a0d)
+
+
+
+
 **Key Learnings**
 
 Technical Insights:
